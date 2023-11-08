@@ -12,7 +12,7 @@ const theme = {
     error: '#dc143c',
     bgInput: '#f9f0da',
     white: '#fff',
-    textColor: '#212121',
+    textColor: '#242222',
   },
   spacing: value => `${value * 4}px`,
 };
