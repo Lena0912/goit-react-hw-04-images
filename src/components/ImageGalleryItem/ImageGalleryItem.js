@@ -38,7 +38,7 @@ export const ImageGalleryItem = ({ searchImage }) => {
   };
 
   const closeModal = () => {
-    isModalOpen(false);
+    setIsModalOpen(false);
   };
 
   
